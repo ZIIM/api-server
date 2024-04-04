@@ -23,6 +23,7 @@ This application is built using the following technologies and libraries:
 - **cors**: ^2.8.5
 - **express**: ^4.19.2
 - **sequelize**: ^6.37.2
+- **sequelize-cli**: ^6.6.2
 - **sqlite3**: ^5.1.7
 - **jest**: ^29.7.0
 - **dotenv**: ^16.4.5
