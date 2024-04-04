@@ -9,5 +9,18 @@
     "sequelize-cli": "^6.6.2",
     "sqlite3": "^5.1.7",
     "supertest": "^6.3.4"
-  }
+  },
+  "name": "api-server",
+  "description": "- **Authors**: John Gause - **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
